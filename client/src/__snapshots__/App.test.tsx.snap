@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render WithTheme 1`] = `
+<div
+  class="sc-bdnxRM cdLDeN"
+>
+  <img
+    alt="logo"
+    src="logo.png"
+    width="87"
+  />
+</div>
+`;
+
+exports[`Should render WithTheme and Appo 1`] = `
+<div
+  class="sc-bdnxRM cdLDeN"
+>
+  <img
+    alt="logo"
+    src="logo.png"
+    width="87"
+  />
+</div>
+`;
+
+exports[`Should render withProvider and match the snapshot 1`] = `
+<div
+  class="sc-bdnxRM cdLDeN"
+>
+  <img
+    alt="logo"
+    src="logo.png"
+    width="87"
+  />
+</div>
+`;
